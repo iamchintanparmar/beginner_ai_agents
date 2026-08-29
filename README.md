@@ -54,8 +54,8 @@ self-contained project with its own dependencies and setup.
 Each folder is an independent project. In general:
 
 ```bash
-git clone https://github.com/iamchintanparmar/beginner-ai-agents.git
-cd beginner-ai-agents/<agent_name>
+git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+cd beginner_ai_agents/<agent_name>
 pip install -r requirements.txt
 python main.py
 ```
