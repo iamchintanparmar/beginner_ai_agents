@@ -2,6 +2,15 @@
 
 This is a Streamlit-based application that scores how well your resume matches a job description and rewrites weak bullet points. The app uses Anthropic's Claude model to read your resume (PDF or DOCX) alongside a job posting and returns a match score, gap analysis, and improved bullet points.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
+
 ## Features
 
 - **Resume Parsing**: Extracts text from uploaded PDF or DOCX resumes.
@@ -29,8 +38,8 @@ This is a Streamlit-based application that scores how well your resume matches a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/ai_resume_optimizer_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents/ai_resume_optimizer_agent.git
+   cd ai_resume_optimizer_agent
    ```
 
 2. Install the required Python packages:
@@ -71,3 +80,16 @@ This is a Streamlit-based application that scores how well your resume matches a
 - **Frontend**: Streamlit
 - **File Parsing**: pypdf, python-docx
 - **Analysis**: Anthropic Claude
+
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
