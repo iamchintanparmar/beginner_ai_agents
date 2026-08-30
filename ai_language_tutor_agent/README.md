@@ -2,6 +2,13 @@
 
 This is a Streamlit-based application that lets you practice conversational skills in any language. The app uses Anthropic's Claude model to role-play a chosen scenario with you, correcting mistakes and introducing new vocabulary after each exchange.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Live Roleplay**: Holds a real conversation in your target language within a chosen scenario.
@@ -29,8 +36,8 @@ This is a Streamlit-based application that lets you practice conversational skil
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/ai_language_tutor_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents/ai_language_tutor_agent.git
+   cd ai_language_tutor_agent
    ```
 
 2. Install the required Python packages:
@@ -70,3 +77,15 @@ This is a Streamlit-based application that lets you practice conversational skil
 
 - **Frontend**: Streamlit
 - **Conversation**: Anthropic Claude
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
