@@ -2,6 +2,14 @@
 
 This is a Streamlit-based application that generates a tailored mock interview for any job title. The app uses Anthropic's Claude model, optionally combined with your resume and a job description, to produce realistic behavioral and role-specific questions along with notes on what a strong answer should cover.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
+
 ## Features
 
 - **Tailored Questions**: Generates interview questions specific to a job title and difficulty level.
@@ -29,8 +37,8 @@ This is a Streamlit-based application that generates a tailored mock interview f
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/ai_interview_prep_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents/ai_interview_prep_agent.git
+   cd ai_interview_prep_agent
    ```
 
 2. Install the required Python packages:
@@ -71,3 +79,14 @@ This is a Streamlit-based application that generates a tailored mock interview f
 - **Frontend**: Streamlit
 - **File Parsing**: pypdf
 - **Generation**: Anthropic Claude
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
