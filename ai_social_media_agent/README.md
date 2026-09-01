@@ -2,6 +2,14 @@
 
 This is a Streamlit-based application that repurposes any piece of content into platform-ready social media posts. The app uses Anthropic's Claude model to rewrite your source content for X/Twitter, LinkedIn, Instagram, Facebook, or TikTok, respecting each platform's length and style conventions.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Multi-Platform Output**: Generates posts for X/Twitter, LinkedIn, Instagram, Facebook, and TikTok in one pass.
@@ -29,8 +37,8 @@ This is a Streamlit-based application that repurposes any piece of content into 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/ai_social_media_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agent.git
+   cd beginner_ai_agents/ai_social_media_agent
    ```
 
 2. Install the required Python packages:
@@ -70,3 +78,15 @@ This is a Streamlit-based application that repurposes any piece of content into 
 
 - **Frontend**: Streamlit
 - **Generation**: Anthropic Claude
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
+
