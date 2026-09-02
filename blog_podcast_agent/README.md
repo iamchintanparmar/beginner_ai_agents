@@ -2,6 +2,15 @@
 
 This is a Streamlit-based application that allows users to convert any blog post into a podcast. The app uses OpenAI's GPT-4 model for summarization, Firecrawl for scraping blog content, and ElevenLabs API for generating audio. Users simply input a blog URL, and the app will generate a podcast episode based on the blog.
 
+
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Blog Scraping**: Scrapes the full content of any public blog URL using the Firecrawl API.
@@ -31,8 +40,8 @@ This is a Streamlit-based application that allows users to convert any blog post
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/blog_podcast_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/blog_podcast_agent
    ```
 
 2. Install the required Python packages:
@@ -74,3 +83,15 @@ This is a Streamlit-based application that allows users to convert any blog post
 - **Scraping**: Firecrawl API
 - **Summarization**: OpenAI GPT-4
 - **Text-to-Speech**: ElevenLabs API
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
+
