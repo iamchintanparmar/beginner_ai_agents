@@ -2,6 +2,13 @@
 
 This is an AI-powered application designed to help users emotionally recover from breakups by providing support, guidance, and emotional outlet messages from a team of specialized AI agents. The app is built using **Streamlit** and **Agno**, leveraging **Gemini 2.0 Flash (Google Vision Model)**.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## 🚀 Features
 
 - 🧠 **Multi-Agent Team:**
@@ -34,8 +41,8 @@ This is an AI-powered application designed to help users emotionally recover fro
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/begineer_ai_agents/breakup_recovery_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd begineer_ai_agents/breakup_recovery_agent
    ```
 
 2. **Install Dependencies:**
@@ -99,3 +106,15 @@ Make sure to provide your **Gemini API key** in the Streamlit sidebar:
 | App won't start | Missing dependencies | Re-run `pip install -r requirements.txt` |
 | No agent response | Invalid or missing Gemini API key | Re-check the key entered in the sidebar |
 | Screenshot analysis fails | Unsupported file type | Upload PNG, JPG, or JPEG only |
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
