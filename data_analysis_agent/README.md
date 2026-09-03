@@ -2,6 +2,13 @@
 
 An AI data analysis agent built using the Agno agent framework and OpenAI's GPT-4o model. This agent helps users analyze their data — CSV and Excel files — through natural language queries, powered by OpenAI's language models and DuckDB for efficient data processing, making data analysis accessible to users regardless of their SQL expertise.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## Features
 
 - 📤 **File Upload Support**:
@@ -30,8 +37,8 @@ An AI data analysis agent built using the Agno agent framework and OpenAI's GPT-
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/begineer_ai_agents/data_analysis_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd begineer_ai_agents/data_analysis_agent
 
    # Install dependencies
    pip install -r requirements.txt
@@ -67,3 +74,15 @@ An AI data analysis agent built using the Agno agent framework and OpenAI's GPT-
 - **Agent Framework**: Agno
 - **AI Model**: OpenAI GPT-4o
 - **Data Processing**: DuckDB
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
+
