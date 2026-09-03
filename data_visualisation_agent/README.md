@@ -2,6 +2,15 @@
 
 A Streamlit application that acts as your personal data visualization expert, powered by LLMs. Simply upload your dataset and ask questions in natural language — the AI agent will analyze your data, generate appropriate visualizations, and provide insights through a combination of charts, statistics, and explanations.
 
+
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 #### Natural Language Data Analysis
@@ -31,8 +40,8 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/data_visualisation_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents/.git
+   cd beginner_ai_agents/data_visualisation_agent
    ```
 
 2. **Install the dependencies**
@@ -66,3 +75,14 @@ Follow the steps below to set up and run the application:
 - **Frontend**: Streamlit
 - **AI Models**: Meta-Llama 3.1 405B, DeepSeek V3, Qwen 2.5 7B, Meta-Llama 3.3 70B (via Together AI)
 - **Code Execution / Sandboxing**: E2B
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
