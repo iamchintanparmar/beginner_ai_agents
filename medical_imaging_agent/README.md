@@ -2,6 +2,13 @@
 
 A Medical Imaging Diagnosis Agent built on Agno, powered by Gemini 2.0 Flash, that provides AI-assisted analysis of medical images and scans. The agent acts as a medical imaging diagnosis expert to analyze various types of medical images and videos, providing detailed diagnostic insights and explanations.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Comprehensive Image Analysis**
@@ -17,8 +24,8 @@ A Medical Imaging Diagnosis Agent built on Agno, powered by Gemini 2.0 Flash, th
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/medical_imaging_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/medical_imaging_agent
 
    # Install dependencies
    pip install -r requirements.txt
@@ -79,3 +86,15 @@ A Medical Imaging Diagnosis Agent built on Agno, powered by Gemini 2.0 Flash, th
 ## Disclaimer
 
 This tool is for educational and informational purposes only. All analyses should be reviewed by qualified healthcare professionals. Do not make medical decisions based solely on this analysis.
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
