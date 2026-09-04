@@ -2,6 +2,14 @@
 
 The AI Meme Generator Agent is a powerful browser automation tool that creates memes using AI agents. This app combines multi-LLM capabilities with automated browser interactions to generate memes based on text prompts through direct website manipulation.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Multi-LLM Support**
@@ -39,8 +47,8 @@ API keys required:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/meme_generator_agent_browseruse
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/meme_generator_agent_browser
    ```
 
 2. **Install the dependencies**:
@@ -80,3 +88,15 @@ API keys required:
 - **Frontend**: Streamlit
 - **Browser Automation**: Playwright
 - **AI Models**: Claude 3.5 Sonnet, GPT-4o, DeepSeek V3
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
