@@ -2,6 +2,12 @@
 
 A Streamlit application that helps users estimate the amount of term life insurance they may need and surfaces currently available policy options. The app is powered by the **Agno** agent framework, uses **OpenAI GPT-5** as the LLM, the **E2B** sandbox for deterministic coverage calculations, and **Firecrawl** for live web research.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## Highlights
 
 - Minimal intake form (age, income, dependents, debt, assets, existing cover, horizon, location).
@@ -23,8 +29,8 @@ You will need API keys for each external service:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/life_insurance_advisor_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/life_insurance_advisor_agent
    ```
 
 2. Create and activate a virtual environment (optional but recommended).
@@ -66,3 +72,15 @@ You will need API keys for each external service:
 ## Disclaimer
 
 This project is for educational and prototyping purposes only and does **not** provide licensed financial advice. Always validate the output with a qualified professional and confirm details directly with insurance providers.
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
