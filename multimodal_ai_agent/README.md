@@ -2,6 +2,13 @@
 
 A Streamlit application that combines video analysis and web search capabilities using Google's Gemini 2.5 model. This agent can analyze uploaded videos and answer questions by combining visual understanding with web search.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ### Features
 
 - Video analysis using Gemini 2.5 Flash/Pro
@@ -14,8 +21,8 @@ A Streamlit application that combines video analysis and web search capabilities
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/multimodal_ai_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/multimodal_ai_agent
    ```
 
 2. Install the required dependencies:
@@ -58,3 +65,14 @@ A Streamlit application that combines video analysis and web search capabilities
 - **Frontend**: Streamlit
 - **AI Model**: Google Gemini 2.5 Flash/Pro
 - **Web Search**: DuckDuckGo
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
