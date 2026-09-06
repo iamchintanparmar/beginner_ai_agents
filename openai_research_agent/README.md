@@ -2,6 +2,14 @@
 
 A multi-agent research application built with OpenAI's Agents SDK and Streamlit. This application enables users to conduct comprehensive research on any topic by leveraging multiple specialized AI agents.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Multi-Agent Architecture**:
@@ -18,8 +26,8 @@ A multi-agent research application built with OpenAI's Agents SDK and Streamlit.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/openai_research_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/openai_research_agent
    ```
 
 2. Install the required dependencies:
@@ -61,3 +69,14 @@ A multi-agent research application built with OpenAI's Agents SDK and Streamlit.
 - **Frontend**: Streamlit
 - **Agent Framework**: OpenAI Agents SDK
 - **AI Model**: OpenAI GPT
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
