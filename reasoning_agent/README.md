@@ -2,6 +2,13 @@
 
 The AI Reasoning Agent leverages advanced AI models to provide insightful reasoning and decision-making capabilities. This agent is designed to assist users in various analytical tasks by processing information and generating structured outputs.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Advanced Reasoning**: Utilizes the Ollama model to perform complex reasoning tasks.
@@ -13,8 +20,8 @@ The AI Reasoning Agent leverages advanced AI models to provide insightful reason
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/reasoning_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/reasoning_agent
    ```
 
 2. Install the required packages:
@@ -65,3 +72,15 @@ The AI Reasoning Agent leverages advanced AI models to provide insightful reason
 
 - **AI Model**: Ollama (local inference)
 - **Output Format**: Markdown
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
