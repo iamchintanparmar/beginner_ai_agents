@@ -2,6 +2,14 @@
 
 The AI Startup Trend Analysis Agent is a tool for budding entrepreneurs that generates actionable insights by identifying nascent trends, potential market gaps, and growth opportunities in specific sectors. Entrepreneurs can use these data-driven insights to validate ideas, spot market opportunities, and make informed decisions about their startup ventures. It combines Newspaper4k and DuckDuckGo to scan and analyze startup-focused articles and market data. Using Claude 3.5 Sonnet, it processes this information to extract emerging patterns and enable entrepreneurs to identify promising startup opportunities.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **User Prompt**: Entrepreneurs can input specific startup sectors or technologies of interest for research.
@@ -14,8 +22,8 @@ The AI Startup Trend Analysis Agent is a tool for budding entrepreneurs that gen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/tartup__analysis_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agemts.git
+   cd beginner_ai_agents/tartup__analysis_agent
    ```
 
 2. Create and activate a virtual environment:
@@ -57,3 +65,15 @@ The AI Startup Trend Analysis Agent is a tool for budding entrepreneurs that gen
 - **AI Model**: Claude 3.5 Sonnet (Anthropic)
 - **News Collection**: DuckDuckGo
 - **Article Parsing**: Newspaper4k
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
