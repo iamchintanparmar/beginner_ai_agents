@@ -2,6 +2,13 @@
 
 This Streamlit app is an AI-powered travel agent that generates personalized travel itineraries using OpenAI GPT-4o. It automates the process of researching, planning, and organizing your dream vacation, allowing you to explore exciting destinations with ease.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - Research and discover exciting travel destinations, activities, and accommodations.
@@ -13,8 +20,8 @@ This Streamlit app is an AI-powered travel agent that generates personalized tra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/travel_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/travel_agent
    ```
 
 2. Install the required dependencies:
@@ -76,3 +83,16 @@ This feature makes it easy to keep track of your travel plans and have your itin
 - **Frontend**: Streamlit
 - **AI Model**: OpenAI GPT-4o (or Ollama for local inference)
 - **Web Search**: SerpAPI
+
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
