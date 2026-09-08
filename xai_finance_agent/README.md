@@ -2,6 +2,13 @@
 
 This application creates a financial analysis agent powered by xAI's Grok model, combining real-time stock data with web search capabilities. It provides structured financial insights through an interactive playground interface.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - Powered by xAI's Grok-4 Fast model
@@ -14,8 +21,8 @@ This application creates a financial analysis agent powered by xAI's Grok model,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/xai_finance_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/xai_finance_agent
    ```
 
 2. Install the required dependencies:
@@ -59,3 +66,14 @@ To manage, monitor, and interact with your financial agent through the AgentOS C
 - **Stock Data**: YFinance
 - **Web Search**: DuckDuckGo
 - **Agent Platform**: AgentOS
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
