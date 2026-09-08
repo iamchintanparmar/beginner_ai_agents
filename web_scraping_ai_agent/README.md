@@ -4,6 +4,13 @@ AI-powered web scraping using **ScrapeGraphAI** — extract structured data from
 
 ---
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## 📁 What's Inside
 
 **Files**: `ai_scrapper.py`, `local_ai_scrapper.py`
@@ -26,8 +33,8 @@ Uses the open-source ScrapeGraphAI library that runs on your local machine.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/coboat/Chintan-s-ai-Agents.git
-   cd Chintan-s-ai-Agents/beginner_ai_agents/web_scraping_ai_agent
+   git clone https://github.com/iamchintanparmar/beginner_ai_agents.git
+   cd beginner_ai_agents/web_scraping_ai_agent
    ```
 
 2. **Install dependencies**
